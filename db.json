@@ -1,0 +1,20 @@
+[
+  {
+    "cne": 100000,
+    "nom": "karimi",
+    "prenom": "farid",
+    "email": "karimi23@gmail.coùm",
+  },
+  {
+    "cne": 20000,
+    "nom": "karimi",
+    "prenom": "nabil",
+    "email": "karimi.nabil@yahoo.com",
+  },
+  {
+    "cne": 15333,
+    "nom": "sadiki",
+    "prenom": "hiba",
+    "email": "hiba.sadiki@outlook.com",
+  },
+]
